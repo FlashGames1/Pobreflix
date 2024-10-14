@@ -1,2 +1,3 @@
 # Pobreflix
-Netflix só que 1000 vezes melhor (ironia)
+Página de catálogo de vídeos
+Inspirado na netflix
